@@ -1,0 +1,10 @@
+-----------------------------------------------
+                 ERROR REPORT
+-----------------------------------------------
+
+Execution time : 2025-01-30 22:29:55
+[2025-01-30 22:29:56] ERROR : GLCONST_CHAR::CPMAX_LOADFILE(), cp_max.bin
+[2025-01-30 22:29:56] ERROR : CIniLoader::open(), File Open skill_purchase.ini
+[2025-01-30 22:29:56] ERROR : GLSkillPurchase::LoadFile(), File Open D:\chibiran\Data\GLogic\skill_purchase.ini
+[2025-01-30 22:29:56] ERROR : GLReborn::LOAD, File Open Reborn.ini
+[2025-01-30 22:29:56] ERROR : CIniLoader::open(), File Open map_drop_filter.ini

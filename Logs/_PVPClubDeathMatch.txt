@@ -1,0 +1,10 @@
+[2025-01-31 18:24:48]PVPClubDeathMatch::Load 5 schedules loaded
+[2025-01-31 18:24:48]PVPClubDeathMatch::FindScheduleFirst Index:4 Start(D:7/H:20/M:0) BattleStart(H:20/M:10) BattleEnd(H:21/M:5)
+[2025-02-01 06:12:57]PVPClubDeathMatch::Load 5 schedules loaded
+[2025-02-01 06:12:57]PVPClubDeathMatch::FindScheduleFirst Index:4 Start(D:7/H:20/M:0) BattleStart(H:20/M:10) BattleEnd(H:21/M:5)
+[2025-02-05 18:11:49]PVPClubDeathMatch::Load 5 schedules loaded
+[2025-02-05 18:11:49]PVPClubDeathMatch::FindScheduleFirst Index:2 Start(D:4/H:20/M:0) BattleStart(H:20/M:10) BattleEnd(H:21/M:5)
+[2025-02-11 17:08:24]PVPClubDeathMatch::Load 5 schedules loaded
+[2025-02-11 17:08:24]PVPClubDeathMatch::FindScheduleFirst Index:1 Start(D:3/H:20/M:0) BattleStart(H:20/M:10) BattleEnd(H:21/M:5)
+[2025-02-12 20:00:26]PVPClubDeathMatch::Load 5 schedules loaded
+[2025-02-12 20:00:26]PVPClubDeathMatch::FindScheduleFirst Index:2 Start(D:4/H:20/M:0) BattleStart(H:20/M:10) BattleEnd(H:21/M:5)

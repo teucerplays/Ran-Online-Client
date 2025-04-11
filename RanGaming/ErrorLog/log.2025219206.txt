@@ -1,0 +1,15 @@
+-----------------------------------------------
+                 ERROR REPORT
+-----------------------------------------------
+
+Execution time : 2025-02-19 20:06:39
+[2025-02-19 20:06:40] ERROR : GLCONST_CHAR::CPMAX_LOADFILE(), cp_max.bin
+[2025-02-19 20:06:40] ERROR : CIniLoader::open(), File Open skill_purchase.ini
+[2025-02-19 20:06:40] ERROR : GLSkillPurchase::LoadFile(), File Open D:\chibiran\Data\GLogic\skill_purchase.ini
+[2025-02-19 20:06:40] ERROR : GLReborn::LOAD, File Open Reborn.ini
+[2025-02-19 20:06:40] ERROR : CIniLoader::open(), File Open map_drop_filter.ini
+[2025-02-19 20:08:51] The text output window is set too small.. Gunner  -14
+[2025-02-19 20:08:51] The text output window is set too small.. Assassin  -14
+[2025-02-19 20:08:53] ERROR : TextureManager::LoadTexture() m2_bs_body_manny.dds, E_INVALIDARG
+[2025-02-19 20:08:53] ERROR : TextureManager::LoadTexture() m2_bs_gloves_manny.dds, E_INVALIDARG
+[2025-02-19 20:08:53] 본이름 불일치 : a_npc_cake_stay.cfg, b_npc_cake.x, b_item_10y_cake.X

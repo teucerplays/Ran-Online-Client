@@ -1,0 +1,26 @@
+-----------------------------------------------
+                 ERROR REPORT
+-----------------------------------------------
+
+Execution time : 2025-02-02 12:34:03
+[2025-02-02 12:34:04] ERROR : GLCONST_CHAR::CPMAX_LOADFILE(), cp_max.bin
+[2025-02-02 12:34:04] ERROR : CIniLoader::open(), File Open skill_purchase.ini
+[2025-02-02 12:34:04] ERROR : GLSkillPurchase::LoadFile(), File Open D:\chibiran\Data\GLogic\skill_purchase.ini
+[2025-02-02 12:34:04] ERROR : GLReborn::LOAD, File Open Reborn.ini
+[2025-02-02 12:34:04] ERROR : CIniLoader::open(), File Open map_drop_filter.ini
+[2025-02-02 12:34:23] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:34:34] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:34:34] WSAEnumNetworkEvents - Contact Event Error, NetworkEvent : 16, nRetCode : 0, iErrorCode : 10060
+[2025-02-02 12:34:44] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:34:55] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:34:55] WSAEnumNetworkEvents - Contact Event Error, NetworkEvent : 16, nRetCode : 0, iErrorCode : 10060
+[2025-02-02 12:35:05] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:35:16] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:35:16] WSAEnumNetworkEvents - Contact Event Error, NetworkEvent : 16, nRetCode : 0, iErrorCode : 10060
+[2025-02-02 12:35:26] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:35:37] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:35:37] WSAEnumNetworkEvents - Contact Event Error, NetworkEvent : 16, nRetCode : 0, iErrorCode : 10060
+[2025-02-02 12:35:47] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:35:58] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 12:35:58] WSAEnumNetworkEvents - Contact Event Error, NetworkEvent : 16, nRetCode : 0, iErrorCode : 10060
+[2025-02-02 12:44:09] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT

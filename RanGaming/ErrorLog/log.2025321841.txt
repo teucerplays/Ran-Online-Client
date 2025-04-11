@@ -1,0 +1,14 @@
+-----------------------------------------------
+                 ERROR REPORT
+-----------------------------------------------
+
+Execution time : 2025-03-02 18:41:33
+[2025-03-02 18:41:35] ERROR : GLCONST_CHAR::CPMAX_LOADFILE(), cp_max.bin
+[2025-03-02 18:41:35] ERROR : CIniLoader::open(), File Open skill_purchase.ini
+[2025-03-02 18:41:35] ERROR : GLSkillPurchase::LoadFile(), File Open D:\chibiran\Data\GLogic\skill_purchase.ini
+[2025-03-02 18:41:35] ERROR : GLReborn::LOAD, File Open Reborn.ini
+[2025-03-02 18:41:35] ERROR : CIniLoader::open(), File Open map_drop_filter.ini
+[2025-03-02 18:44:41] The text output window is set too small.. Gunner  -14
+[2025-03-02 18:44:41] The text output window is set too small.. Assassin  -14
+[2025-03-02 18:44:45] ERROR : TextureManager::LoadTexture() m2_bs_body_manny.dds, E_INVALIDARG
+[2025-03-02 18:44:45] ERROR : TextureManager::LoadTexture() m2_bs_gloves_manny.dds, E_INVALIDARG

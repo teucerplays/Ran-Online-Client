@@ -1,0 +1,13 @@
+-----------------------------------------------
+                 ERROR REPORT
+-----------------------------------------------
+
+Execution time : 2025-02-02 19:59:13
+[2025-02-02 19:59:14] ERROR : GLCONST_CHAR::CPMAX_LOADFILE(), cp_max.bin
+[2025-02-02 19:59:15] ERROR : CIniLoader::open(), File Open skill_purchase.ini
+[2025-02-02 19:59:15] ERROR : GLSkillPurchase::LoadFile(), File Open D:\chibiran\Data\GLogic\skill_purchase.ini
+[2025-02-02 19:59:15] ERROR : GLReborn::LOAD, File Open Reborn.ini
+[2025-02-02 19:59:15] ERROR : CIniLoader::open(), File Open map_drop_filter.ini
+[2025-02-02 19:59:34] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 19:59:44] WSAWaitForMultipleEvents Error Code WSA_WAIT_TIMEOUT
+[2025-02-02 19:59:45] WSAEnumNetworkEvents - Contact Event Error, NetworkEvent : 16, nRetCode : 0, iErrorCode : 10060

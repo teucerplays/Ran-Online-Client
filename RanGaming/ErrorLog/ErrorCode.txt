@@ -1,0 +1,14 @@
+2025-01-29 19:20:34~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-01-30 10:39:28~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-01-30 10:45:02~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-01-30 10:52:03~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-01-30 10:53:18~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-01-31 18:46:17~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-01-31 19:05:59~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-01-31 19:10:07~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-02-01 13:43:42~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-02-10 15:48:50~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-02-11 17:09:18~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-02-21 19:23:08~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-03-01 15:05:04~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732
+2025-03-02 16:14:16~~Code Error! Function:Unsupported DxEffChar Effect Error:File:D:\chibiran\Data\SkinObject\m_cos_samurai_foot.cps TypeID:29 Version:259(103) Size:11732

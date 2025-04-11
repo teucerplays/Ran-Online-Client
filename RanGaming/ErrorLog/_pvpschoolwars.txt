@@ -1,0 +1,8 @@
+[2025-01-30 10:45:58]FindScheduleFirst Index:1 Start(D:6/H:20/M:0) BattleStart(H:20/M:15) BattleEnd(H:21/M:5)
+[2025-01-30 22:30:57]FindScheduleFirst Index:1 Start(D:6/H:20/M:0) BattleStart(H:20/M:15) BattleEnd(H:21/M:5)
+[2025-01-31 18:24:48]FindScheduleFirst Index:1 Start(D:6/H:20/M:0) BattleStart(H:20/M:15) BattleEnd(H:21/M:5)
+[2025-02-01 06:12:57]FindScheduleFirst Index:0 Start(D:2/H:20/M:0) BattleStart(H:20/M:15) BattleEnd(H:21/M:5)
+[2025-02-05 18:11:49]FindScheduleFirst Index:1 Start(D:6/H:20/M:0) BattleStart(H:20/M:15) BattleEnd(H:21/M:5)
+[2025-02-11 17:08:24]FindScheduleFirst Index:1 Start(D:6/H:20/M:0) BattleStart(H:20/M:15) BattleEnd(H:21/M:5)
+[2025-02-12 20:00:26]FindScheduleFirst Index:1 Start(D:6/H:20/M:0) BattleStart(H:20/M:15) BattleEnd(H:21/M:5)
+[2025-03-02 18:35:53]FindScheduleFirst Index:0 Start(D:2/H:20/M:0) BattleStart(H:20/M:15) BattleEnd(H:21/M:5)

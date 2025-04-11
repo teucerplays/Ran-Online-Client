@@ -1,0 +1,110 @@
+-----------------------------------------------
+                 ERROR REPORT
+-----------------------------------------------
+
+Execution time : 2025-01-30 10:45:57
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a4_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_a6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w6_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] item ran option setting file load fail : beta_w0_sample.bin
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), material_item_001.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), material_item_001.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), event_halloween_001.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), material_item_001.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), lv210SB_dungeon.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), lv210SB_dungeon.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), lv210SB_dungeon.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), lv210SB_dungeon.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), SaintSS_Boss_01.genitem
+[2025-01-30 10:45:57] ERROR : SGENITEM::LOADFILE(), SaintSS_Boss_01.genitem
+[2025-01-30 10:45:57] ERROR : CIniLoader::open(), File Open npc_eventlday_cshop
+[2025-01-30 10:45:58] ERROR : SGENITEM::LOADFILE(), Event_valentines_002.genitem
+[2025-01-30 10:45:58] ERROR : SGENITEM::LOADFILE(), lv190PB_Shibuya.genitem
+[2025-01-30 10:45:58] ERROR : SGENITEM::LOADFILE(), lv190PB_Shibuya.genitem
+[2025-01-30 10:45:58] ERROR : SGENITEM::LOADFILE(), lv190PB_Shibuya.genitem
+[2025-01-30 10:45:58] ERROR : SGENITEM::LOADFILE(), lv190PB_Shibuya.genitem
+[2025-01-30 10:45:58] ERROR : SGENITEM::LOADFILE(), lv190PB_Shibuya.genitem
+[2025-01-30 10:45:58] ERROR : SGENITEM::LOADFILE(), lv190PB_Shibuya.genitem
+[2025-01-30 10:45:58] ERROR : GLCONST_CHAR::CPMAX_LOADFILE(), cp_max.bin
+[2025-01-30 10:45:58] ERROR : CIniLoader::open(), File Open skill_purchase.ini
+[2025-01-30 10:45:58] ERROR : GLSkillPurchase::LoadFile(), File Open D:\chibiran\Data\GLogic\skill_purchase.ini
+[2025-01-30 10:45:58] ERROR : GLReborn::LOAD, File Open Reborn.ini
+[2025-01-30 10:45:58] ERROR : CIniLoader::open(), File Open map_drop_filter.ini
+[2025-01-30 10:47:17] ERROR : dwGUID>=m_dwMaxClient PetGUID : -1 dwMaxClient : 1000
+[2025-01-30 10:47:17] ERROR : TextureManager::LoadTexture() loading_st.dds, E_INVALIDARG
+[2025-01-30 10:47:18] ERROR : TextureManager::LoadTexture() m2_bs_body_manny.dds, E_INVALIDARG
+[2025-01-30 10:47:18] ERROR : TextureManager::LoadTexture() m2_bs_gloves_manny.dds, E_INVALIDARG
+[2025-01-30 10:47:18] ERROR : TextureManager::LoadTexture() w3_u.dds, E_INVALIDARG
+[2025-01-30 10:47:28] ERROR : dwGUID>=m_dwMaxClient PetGUID : -1 dwMaxClient : 1000
+[2025-01-30 10:47:28] ERROR : TextureManager::LoadTexture() loading_st.dds, E_INVALIDARG
+[2025-01-30 10:47:36] ERROR : dwGUID>=m_dwMaxClient PetGUID : -1 dwMaxClient : 1000
+[2025-01-30 10:47:36] ERROR : TextureManager::LoadTexture() loading_st.dds, E_INVALIDARG
+[2025-01-30 10:48:02] ERROR : dwGUID>=m_dwMaxClient PetGUID : -1 dwMaxClient : 1000
+[2025-01-30 10:48:02] ERROR : TextureManager::LoadTexture() loading_st.dds, E_INVALIDARG
+[2025-01-30 10:48:05] ERROR : dwGUID>=m_dwMaxClient PetGUID : -1 dwMaxClient : 1000
+[2025-01-30 10:48:05] ERROR : TextureManager::LoadTexture() loading_st.dds, E_INVALIDARG
+[2025-01-30 10:48:33] ERROR : dwGUID>=m_dwMaxClient PetGUID : -1 dwMaxClient : 1000
+[2025-01-30 10:48:33] ERROR : TextureManager::LoadTexture() loading_st.dds, E_INVALIDARG
+[2025-01-30 10:49:12] ERROR : TextureManager::LoadTexture() loading_st.dds, E_INVALIDARG
+[2025-01-30 10:49:43] ERROR : TextureManager::LoadTexture() loading_st.dds, E_INVALIDARG
+[2025-01-30 10:52:51] ERROR : dwGUID>=m_dwMaxClient PetGUID : -1 dwMaxClient : 1000

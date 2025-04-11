@@ -1,0 +1,11 @@
+-----------------------------------------------
+                 ERROR REPORT
+-----------------------------------------------
+
+Execution time : 2025-02-09 14:52:57
+[2025-02-09 14:52:58] 11,21, Detergent : 잘못된 apply num입니다.
+[2025-02-09 14:52:58] ERROR : GLCONST_CHAR::CPMAX_LOADFILE(), cp_max.bin
+[2025-02-09 14:52:58] ERROR : CIniLoader::open(), File Open skill_purchase.ini
+[2025-02-09 14:52:58] ERROR : GLSkillPurchase::LoadFile(), File Open D:\chibiran\Data\GLogic\skill_purchase.ini
+[2025-02-09 14:52:58] ERROR : GLReborn::LOAD, File Open Reborn.ini
+[2025-02-09 14:52:58] ERROR : CIniLoader::open(), File Open map_drop_filter.ini
