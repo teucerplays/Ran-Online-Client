@@ -20,3 +20,4 @@ ServerAgent.exe
 ServerField.exe
 ServerLogin.exe
 ServerSession.exe
+*.lnk
