@@ -3256,6 +3256,7 @@
 <VALUE Lang="Common" Index="3">SP</VALUE>
 <VALUE Lang="Common" Index="4">Apply</VALUE>
 <VALUE Lang="Common" Index="5">Close</VALUE>
+<VALUE Lang="Common" Index="6">Enable</VALUE>
 </WORD>
 
 <WORD Ver="1" Id="AUTO_PILOT_WINDOW">

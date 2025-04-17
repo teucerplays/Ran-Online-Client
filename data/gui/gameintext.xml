@@ -6774,8 +6774,11 @@
 <SENTENSE Ver="1" Id="EMREQ_AUTO_POTION_FB_INVALID_VALUE">
 <VALUE Lang="Common">Cannot set zero value</VALUE>
 </SENTENSE>
-<SENTENSE Ver="1" Id="EMREQ_AUTO_POTION_FB_DONE">
-<VALUE Lang="Common">Auto potion set</VALUE>
+<SENTENSE Ver="1" Id="EMREQ_AUTO_POTION_FB_DONE_ON">
+<VALUE Lang="Common">Auto potion On</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EMREQ_AUTO_POTION_FB_DONE_OFF">
+<VALUE Lang="Common">Auto potion Off</VALUE>
 </SENTENSE>
 <SENTENSE Ver="1" Id="EMREQ_AUTO_POTION_FB_NOT_MAP">
 <VALUE Lang="Common">AutoPotion not applicable for this map</VALUE>
@@ -6898,16 +6901,6 @@
 </SENTENSE>
 <SENTENSE Ver="1" Id="EMCAPTCHA_CA_SUCCESS">
 <VALUE Lang="Common"> Input success!.</VALUE>
-</SENTENSE>
-
-<SENTENSE Ver="1" Id="EM_SELFBUFF_FAIL">
-<VALUE Lang="Common">Buff Request Failed!.</VALUE>
-</SENTENSE>
-<SENTENSE Ver="1" Id="EM_SELFBUFF_SUCCESS">
-<VALUE Lang="Common">Buff Request Success!.</VALUE>
-</SENTENSE>
-<SENTENSE Ver="1" Id="EM_SELFBUFF_NO_MONEY">
-<VALUE Lang="Common">Buff Request Failed!.Not Enough Gold.</VALUE>
 </SENTENSE>
 
 </TEXT>

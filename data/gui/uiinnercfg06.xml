@@ -3155,6 +3155,22 @@
 		<WINDOW_POS X="15" Y="110" W="50" H="15" />
 	</CONTROL>
 	
+	
+	<CONTROL Local="Common" Id="AUTO_POTION_ENABLE_STATIC">
+		<WINDOW_POS X="15" Y="150" W="50" H="15" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="AUTO_POTION_ENABLE_BUTTON">
+		<WINDOW_POS X="75" Y="150" W="11" H="11" />
+		<TEXTURE SizeX="512" SizeY="512">Interface_Main.dds</TEXTURE>
+		<TEXTURE_POS X="238" Y="125" W="11" H="11" />
+	</CONTROL>
+	<CONTROL Local="Common" Id="AUTO_POTION_ENABLE_BUTTON_F">
+		<WINDOW_POS X="0" Y="0" W="11" H="11" />
+		<TEXTURE SizeX="512" SizeY="512">Interface_Main.dds</TEXTURE>
+		<TEXTURE_POS X="251" Y="125" W="11" H="11" />
+	</CONTROL>
+	
+	
 	<CONTROL Local="Common" Id="AUTO_POTION_HP_PROGRESS_DUMMY">
 		<WINDOW_POS X="65" Y="30" W="195" H="15" />
 	</CONTROL>
