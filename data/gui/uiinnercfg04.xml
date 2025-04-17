@@ -8036,11 +8036,10 @@
 	
 	
 	<CONTROL Local="Common" Id="GAME_ITEM_SHOP_ICON">
-		<WINDOW_POS X="0" Y="0" W="35" H="35" />
-		<!--<WINDOW_POS X="497" Y="538" W="35" H="35" />-->
+		<WINDOW_POS X="190" Y="3" W="35" H="35" />
 	</CONTROL>
 	<CONTROL Local="Common" Id="GAME_ITEM_SHOP_ICON_IMAGE">
-<WINDOW_POS X="497" Y="538" W="35" H="35" />
+		<WINDOW_POS X="0" Y="0" W="35" H="35" />
 		<TEXTURE SizeX="512" SizeY="512">game_item_shop.dds</TEXTURE>
 		<TEXTURE_POS X="0" Y="0" W="35" H="35" />
 	</CONTROL>

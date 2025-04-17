@@ -3407,19 +3407,19 @@
 </SENTENSE>
 
 <SENTENSE Ver="1" Id="PVP_TYRANNY_REG">
-<VALUE Lang="Common">School vs School Tyranny Registration Open.</VALUE>
+<VALUE Lang="Common">Tyranny registration open.</VALUE>
 </SENTENSE>
 <SENTENSE Ver="1" Id="PVP_TYRANNY_BATTLE">
-<VALUE Lang="Common">School vs School Tyranny battle start.</VALUE>
+<VALUE Lang="Common">Tyranny battle start.</VALUE>
 </SENTENSE>
 <SENTENSE Ver="1" Id="PVP_TYRANNY_REWARD">
-<VALUE Lang="Common">School vs School Tyranny battle has ended, Please wait for rankings and rewards.</VALUE>
+<VALUE Lang="Common">Tyranny battle has ended, Please wait for rankings and rewards.</VALUE>
 </SENTENSE>
 <SENTENSE Ver="1" Id="PVP_TYRANNY_ENDED">
 <VALUE Lang="Common">Thank you for participating Tyranny.</VALUE>
 </SENTENSE>
 <SENTENSE Ver="1" Id="PVP_TYRANNY_TOBATTLE">
-<VALUE Lang="Common">School vs School Tyranny will start in %d minutes.</VALUE>
+<VALUE Lang="Common">Tyranny will start in %d minutes.</VALUE>
 </SENTENSE>
 
 <SENTENSE Ver="1" Id="TYRANNY_REGISTER_FB_NOTPOSSIBLE">
@@ -6775,7 +6775,7 @@
 <VALUE Lang="Common">Cannot set zero value</VALUE>
 </SENTENSE>
 <SENTENSE Ver="1" Id="EMREQ_AUTO_POTION_FB_DONE">
-<VALUE Lang="Common">AutoPotion set</VALUE>
+<VALUE Lang="Common">Auto potion set</VALUE>
 </SENTENSE>
 <SENTENSE Ver="1" Id="EMREQ_AUTO_POTION_FB_NOT_MAP">
 <VALUE Lang="Common">AutoPotion not applicable for this map</VALUE>
@@ -6898,6 +6898,16 @@
 </SENTENSE>
 <SENTENSE Ver="1" Id="EMCAPTCHA_CA_SUCCESS">
 <VALUE Lang="Common"> Input success!.</VALUE>
+</SENTENSE>
+
+<SENTENSE Ver="1" Id="EM_SELFBUFF_FAIL">
+<VALUE Lang="Common">Buff Request Failed!.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EM_SELFBUFF_SUCCESS">
+<VALUE Lang="Common">Buff Request Success!.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="EM_SELFBUFF_NO_MONEY">
+<VALUE Lang="Common">Buff Request Failed!.Not Enough Gold.</VALUE>
 </SENTENSE>
 
 </TEXT>

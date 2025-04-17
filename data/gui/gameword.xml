@@ -1865,7 +1865,7 @@
 <VALUE Lang="Common" Index="1">Close</VALUE>
 </WORD>
 <WORD Ver="1" Id="PVP_COMPETITION_BUTTON">
-<VALUE Lang="Common" Index="0">TyrannyWars</VALUE>
+<VALUE Lang="Common" Index="0">Tyranny</VALUE>
 <VALUE Lang="Common" Index="1">SchoolWars</VALUE>
 <VALUE Lang="Common" Index="2">CaptureTheFlag</VALUE>
 <VALUE Lang="Common" Index="3">ClubDeathMatch</VALUE>
@@ -2980,17 +2980,17 @@
 </WORD>
 
 <WORD Ver="1" Id="RNCDM_SHOPPING_GATE_KEY">
-<VALUE Lang="Common" Index="0">Middle Area</VALUE>
-<VALUE Lang="Common" Index="1">North Area</VALUE>
-<VALUE Lang="Common" Index="2">Middle Area</VALUE>
-<VALUE Lang="Common" Index="3">West Area</VALUE>
-<VALUE Lang="Common" Index="4">South Area</VALUE>
-<VALUE Lang="Common" Index="5">South East Area</VALUE>
-<VALUE Lang="Common" Index="6">East Area</VALUE>
-<VALUE Lang="Common" Index="7">North East Area</VALUE>
-<VALUE Lang="Common" Index="8">North West Area</VALUE>
+<VALUE Lang="Common" Index="0">Main Hall (2F)</VALUE>
+<VALUE Lang="Common" Index="1">Side of Stairs (1F)</VALUE>
+<VALUE Lang="Common" Index="2">Rest Area (1F)</VALUE>
+<VALUE Lang="Common" Index="3">Main Gate (1F)</VALUE>
+<VALUE Lang="Common" Index="4">Cafe Terrace (2F)</VALUE>
+<VALUE Lang="Common" Index="5">Event Hall (2F)</VALUE>
+<VALUE Lang="Common" Index="6">West Entrance (2F)</VALUE>
+<VALUE Lang="Common" Index="7">Luxury Shop (2F)</VALUE>
+<VALUE Lang="Common" Index="8">Casual Clothing Shop (2F)</VALUE>
 <VALUE Lang="Common" Index="9">East Entrance (2F)</VALUE>
-<VALUE Lang="Common" Index="10">South West Area</VALUE>
+<VALUE Lang="Common" Index="10">Jewerly Shop (2F)</VALUE>
 </WORD>
   
   
@@ -3174,7 +3174,7 @@
 </WORD>
 
 <WORD Ver="1" Id="CHAOS_MACHINE_WINDOW_INFO">
-<VALUE Lang="Common" Index="0">Insert Item to Start Roll</VALUE>
+<VALUE Lang="Common" Index="0">Insert item to start</VALUE>
 <VALUE Lang="Common" Index="1">Cost:%I64d</VALUE>
 <VALUE Lang="Common" Index="2">Rate:%g %%</VALUE>
 <VALUE Lang="Common" Index="3">%d/%d</VALUE>
@@ -3315,145 +3315,5 @@
 <WORD Ver="1" Id="CAPTCHA_WINDOW">
 <VALUE Lang="Common" Index="0">OK</VALUE>
 </WORD>
-<!-- LG-7 GlobalRanking -->
-<WORD Ver="1" Id="GLOBAL_RANKING_WINDOW">
-<VALUE Lang="Common" Index="0">Ranking Window</VALUE>
-</WORD>
-<WORD Ver="1" Id="GLOBAL_RANKING_WINDOW_BUTTON">
-<VALUE Lang="Common" Index="0">Kill</VALUE>
-<VALUE Lang="Common" Index="1">Rich</VALUE>
-<VALUE Lang="Common" Index="2">Guild</VALUE>
-<VALUE Lang="Common" Index="3">Brawler</VALUE>
-<VALUE Lang="Common" Index="4">Swords</VALUE>
-<VALUE Lang="Common" Index="5">Archer</VALUE>
-<VALUE Lang="Common" Index="6">Shaman</VALUE>
-<VALUE Lang="Common" Index="7">Extrme</VALUE>
-<VALUE Lang="Common" Index="8">Gunner</VALUE>
-<VALUE Lang="Common" Index="9">Assassin</VALUE>
-<VALUE Lang="Common" Index="10">Magician</VALUE>
-<VALUE Lang="Common" Index="11">Shaper</VALUE>
-</WORD>
-<WORD Ver="1" Id="GLOBAL_RANKING_PAGE_TEXT0">
-		<VALUE Lang="Common" Index="0">Rank</VALUE>
-		<VALUE Lang="Common" Index="1">Character name</VALUE>
-		<VALUE Lang="Common" Index="2">Level</VALUE>
-		<VALUE Lang="Common" Index="3">Class</VALUE>
-		<VALUE Lang="Common" Index="4">School</VALUE>
-		<VALUE Lang="Common" Index="5">Guild</VALUE>
-		<VALUE Lang="Common" Index="6">Status</VALUE>
-		<VALUE Lang="Common" Index="7">Kill - Death</VALUE>
-	</WORD>
-	<WORD Ver="1" Id="GLOBAL_RANKING_PAGE_TEXT1">
-		<VALUE Lang="Common" Index="0">Rank</VALUE>
-		<VALUE Lang="Common" Index="1">Character name</VALUE>
-		<VALUE Lang="Common" Index="2">Level</VALUE>
-		<VALUE Lang="Common" Index="3">Class</VALUE>
-		<VALUE Lang="Common" Index="4">School</VALUE>
-		<VALUE Lang="Common" Index="5">Guild</VALUE>
-		<VALUE Lang="Common" Index="6">Status</VALUE>
-		<VALUE Lang="Common" Index="7">Gold</VALUE>
-	</WORD>
-	<WORD Ver="1" Id="GLOBAL_RANKING_PAGE_TEXT2">
-		<VALUE Lang="Common" Index="0">Rank</VALUE>
-		<VALUE Lang="Common" Index="1">Guild name</VALUE>
-		<VALUE Lang="Common" Index="2">Level</VALUE>
-		<VALUE Lang="Common" Index="3">Guild</VALUE>
-		<VALUE Lang="Common" Index="4">Alliance</VALUE>
-		<VALUE Lang="Common" Index="5">Status</VALUE>
-		<VALUE Lang="Common" Index="6">Kills - Deaths - Members</VALUE>
-	</WORD>
-	<WORD Ver="1" Id="GLOBAL_RANKING_PAGE_TEXT3">
-		<VALUE Lang="Common" Index="0">Rank</VALUE>
-		<VALUE Lang="Common" Index="1">Character name</VALUE>
-		<VALUE Lang="Common" Index="2">Level</VALUE>
-		<VALUE Lang="Common" Index="3">Class</VALUE>
-		<VALUE Lang="Common" Index="4">School</VALUE>
-		<VALUE Lang="Common" Index="5">Guild</VALUE>
-		<VALUE Lang="Common" Index="6">Status</VALUE>
-		<VALUE Lang="Common" Index="7">Resu</VALUE>
-	</WORD>
-	<WORD Ver="1" Id="GLOBAL_RANKING_PAGE_TEXT4">
-		<VALUE Lang="Common" Index="0">Rank</VALUE>
-		<VALUE Lang="Common" Index="1">Character name</VALUE>
-		<VALUE Lang="Common" Index="2">Level</VALUE>
-		<VALUE Lang="Common" Index="3">Class</VALUE>
-		<VALUE Lang="Common" Index="4">School</VALUE>
-		<VALUE Lang="Common" Index="5">Guild</VALUE>
-		<VALUE Lang="Common" Index="6">Status</VALUE>
-		<VALUE Lang="Common" Index="7">MMR</VALUE>
-	</WORD>
-<WORD Ver="1" Id="GLOBAL_RANKING_PAGE_TEXT">
-<VALUE Lang="Common" Index="0">Rank</VALUE>
-<VALUE Lang="Common" Index="1">Player Name</VALUE>
-<VALUE Lang="Common" Index="2">Level</VALUE>
-<VALUE Lang="Common" Index="3">Class</VALUE>
-<VALUE Lang="Common" Index="4">School</VALUE>
-<VALUE Lang="Common" Index="5">Guild</VALUE>
-<VALUE Lang="Common" Index="6">Status</VALUE>
-<VALUE Lang="Common" Index="7">Kill - Death</VALUE>
-<VALUE Lang="Common" Index="8">Kill - Death</VALUE>
-<VALUE Lang="Common" Index="9">Kill - Death</VALUE>
-<VALUE Lang="Common" Index="10">Rank</VALUE>
-<VALUE Lang="Common" Index="11">Player Name</VALUE>
-<VALUE Lang="Common" Index="12">Level</VALUE>
-<VALUE Lang="Common" Index="13">Class</VALUE>
-<VALUE Lang="Common" Index="14">School</VALUE>
-<VALUE Lang="Common" Index="15">Guild</VALUE>
-<VALUE Lang="Common" Index="16">Status</VALUE>
-<VALUE Lang="Common" Index="17">Gold</VALUE>
-<VALUE Lang="Common" Index="18">Gold</VALUE>
-<VALUE Lang="Common" Index="19">Gold</VALUE>
-<VALUE Lang="Common" Index="20">Rank</VALUE>
-<VALUE Lang="Common" Index="21">Guild Name</VALUE>
-<VALUE Lang="Common" Index="22">Level</VALUE>
-<VALUE Lang="Common" Index="23">Guild</VALUE>
-<VALUE Lang="Common" Index="24">Alliance</VALUE>
-<VALUE Lang="Common" Index="25">Online</VALUE>
-<VALUE Lang="Common" Index="26">Win - Loss - Draw</VALUE>
-</WORD>
-<WORD Ver="1" Id="GLOBAL_RANKING_STAGE">
-<VALUE Lang="Common" Index="0">Please wait %.1f sec(s).</VALUE>
-</WORD>
-<WORD Ver="1" Id="CHAR_CLASS_NAME">
-<VALUE Lang="Common" Index="0">Brawler [M]</VALUE>
-<VALUE Lang="Common" Index="1">SwordsMan [M]</VALUE>
-<VALUE Lang="Common" Index="2">Archer [F]</VALUE>
-<VALUE Lang="Common" Index="3">Shaman [F]</VALUE>
-<VALUE Lang="Common" Index="4">Extreme [M]</VALUE>
-<VALUE Lang="Common" Index="5">Extreme [F]</VALUE>
-<VALUE Lang="Common" Index="6">Brawler [W]</VALUE>
-<VALUE Lang="Common" Index="7">SwordsMan [W]</VALUE>
-<VALUE Lang="Common" Index="8">Archer [M]</VALUE>
-<VALUE Lang="Common" Index="9">Shaman [M]</VALUE>
-<VALUE Lang="Common" Index="10">Gunner [M]</VALUE>
-<VALUE Lang="Common" Index="11">Gunner [F]</VALUE>
-<VALUE Lang="Common" Index="12">Assassin [M]</VALUE>
-<VALUE Lang="Common" Index="13">Assassin [F]</VALUE>
-<VALUE Lang="Common" Index="14">Magician [M]</VALUE>
-<VALUE Lang="Common" Index="15">Magician [F]</VALUE>
-<VALUE Lang="Common" Index="16">Shaper [M]</VALUE>
-<VALUE Lang="Common" Index="17">Shaper [F]</VALUE>
-</WORD>
-<!------------ CLUBWAR_RANKING_NAME_STATIC RANKING, BUTTON ------------>
-<WORD Ver="1" Id="PVP_CLUBWAR_RANKING_TEXT_BUTTON">
-<VALUE Lang="Common" Index="0">Guild Ranking</VALUE>
-<VALUE Lang="Common" Index="1">Player Ranking</VALUE>
-<VALUE Lang="Common" Index="2">Resu Ranking</VALUE>
-<VALUE Lang="Common" Index="3">Show Ranking</VALUE>
-</WORD>
-<WORD Ver="1" Id="PVP_CLUBWAR_RANKING_TEXT_WINDOW">
-<VALUE Lang="Common" Index="0">ClubWar Ranking</VALUE>
-</WORD>
-<WORD Ver="1" Id="PVP_TYRANNY_RANKING_TEXT_WINDOW">
-<VALUE Lang="Common" Index="0">Tyranny Ranking</VALUE>
-</WORD>
-<!------------ TYRANNY RANKING, BUTTON ------------>
-<WORD Ver="1" Id="PVP_TYRANNY_RANKING_TEXT_BUTTON">
-<VALUE Lang="Common" Index="0">Guild Ranking</VALUE>
-<VALUE Lang="Common" Index="1">Player Ranking</VALUE>
-<VALUE Lang="Common" Index="2">Resu Ranking</VALUE>
-<VALUE Lang="Common" Index="3">Show Ranking</VALUE>
-</WORD>
-
 
 </TEXT>
