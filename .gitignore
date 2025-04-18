@@ -21,3 +21,7 @@ ServerField.exe
 ServerLogin.exe
 ServerSession.exe
 *.lnk
+# Ignore build folders
+bin/
+obj/
+runtimes/
