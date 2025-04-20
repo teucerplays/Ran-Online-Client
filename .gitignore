@@ -26,3 +26,4 @@ bin/
 obj/
 runtimes/
 Launcher.exe
+/PortableGit
