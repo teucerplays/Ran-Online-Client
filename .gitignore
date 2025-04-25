@@ -28,3 +28,15 @@ runtimes/
 Launcher.exe
 /PortableGit
 option.ini
+/Launcher.exe.WebView2
+D3DCompiler_47_cor3.dll
+Launcher.dll
+Launcher.pdb
+Microsoft.Web.WebView2.Core.xml
+Microsoft.Web.WebView2.WinForms.xml
+Microsoft.Web.WebView2.Wpf.xml
+PenImc_cor3.dll
+PresentationNative_cor3.dll
+vcruntime140_cor3.dll
+WebView2Loader.dll
+wpfgfx_cor3.dll
