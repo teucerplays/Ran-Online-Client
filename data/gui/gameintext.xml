@@ -1227,27 +1227,6 @@
 <SENTENSE Ver="1" Id="EMGRINDING_TERMINATE">
 <VALUE Lang="Common">Transformation failed in progress.</VALUE>
 </SENTENSE>
-<SENTENSE Ver="1" Id="REFINE_SUCCESS">
-<VALUE Lang="Common">[SUCCESS] %s upgraded [%s %s] using [%s] without Protection Necklace.</VALUE>
-</SENTENSE>
-<SENTENSE Ver="1" Id="REFINE_SUCCESS_PROTECTED">
-<VALUE Lang="Common">[SUCCESS] %s upgraded [%s %s] using [%s] and [Protection Necklace].</VALUE>
-</SENTENSE>
-<SENTENSE Ver="1" Id="REFINE_SUCCESS_NOFAIL">
-<VALUE Lang="Common">[GUARANTEED] %s upgraded [%s %s] using [%s]. No-fail item used!</VALUE>
-</SENTENSE>
-<SENTENSE Ver="1" Id="REFINE_FAIL_SAFE">
-<VALUE Lang="Common">[FAILED] %s failed to upgrade [%s %s] using [%s]. Item is safe.</VALUE>
-</SENTENSE>
-<SENTENSE Ver="1" Id="REFINE_FAIL_DOWNGRADE">
-<VALUE Lang="Common">[DOWNGRADED] %s failed to upgrade [%s %s] using [%s]. Item downgraded to +0.</VALUE>
-</SENTENSE>
-<SENTENSE Ver="1" Id="REFINE_FAIL_DESTROYED">
-<VALUE Lang="Common">[DESTROYED] %s's [%s %s] failed using [%s]. Item was destroyed!</VALUE>
-</SENTENSE>
-<SENTENSE Ver="1" Id="REFINE_FAIL_PROTECTED">
-<VALUE Lang="Common">[PROTECTED] %s's [%s %s] failed using [%s]. Protection Necklace saved the item.</VALUE>
-</SENTENSE>
 <SENTENSE Ver="1" Id="EMGUIDCOMMISSION_FB_ALREADY">
 <VALUE Lang="Common">You had scheduled a change of tax rate.</VALUE>
 </SENTENSE>
@@ -6777,6 +6756,33 @@
 <SENTENSE Ver="1" Id="ENCHANT_NOTICE">
 <VALUE Lang="Common">Player %s has sucessfully upgraded item %s</VALUE>
 </SENTENSE>
+
+<!-- enhanced upgrade notice system, Juver, 2024/12/19 -->
+<SENTENSE Ver="1" Id="REFINE_SUCCESS">
+<VALUE Lang="Common">[SUCCESS] %s upgraded [%s %s] using [%s] without Protection Necklace.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="REFINE_SUCCESS_PROTECTED">
+<VALUE Lang="Common">[SUCCESS] %s upgraded [%s %s] using [%s] and [Protection Necklace].</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="REFINE_SUCCESS_NOFAIL">
+<VALUE Lang="Common">[GUARANTEED] %s upgraded [%s %s] using [%s]. No-fail item used!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="REFINE_FAIL_SAFE">
+<VALUE Lang="Common">[FAILED] %s failed to upgrade [%s %s] using [%s]. Item is safe.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="REFINE_FAIL_DOWNGRADE">
+<VALUE Lang="Common">[DOWNGRADED] %s failed to upgrade [%s %s] using [%s]. Item downgraded to +0.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="REFINE_FAIL_DESTROYED">
+<VALUE Lang="Common">[DESTROYED] %s's [%s %s] failed using [%s]. Item was destroyed!</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="REFINE_FAIL_PROTECTED">
+<VALUE Lang="Common">[PROTECTED] %s's [%s %s] failed using [%s]. Protection Necklace saved the item.</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="REFINE_RESET_NOTICE">
+<VALUE Lang="Common">[RESET] %s reset [%s %s] back to +0 using [%s].</VALUE>
+</SENTENSE>
+
 <SENTENSE Ver="1" Id="COMBO_WHORE_NOTICE">
 <VALUE Lang="Common">Player %s has reached combo whore streak</VALUE>
 </SENTENSE>
