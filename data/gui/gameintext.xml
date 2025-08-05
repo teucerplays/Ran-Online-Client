@@ -6759,6 +6759,12 @@
 <SENTENSE Ver="1" Id="ENCHANT_NOTICE_SUCCESS">
 <VALUE Lang="Common">Player %s has successfully upgraded item %s</VALUE>
 </SENTENSE>
+<SENTENSE Ver="1" Id="ENCHANT_NOTICE_NOFAIL">
+<VALUE Lang="Common">Player %s has successfully upgraded item %s (Guaranteed)</VALUE>
+</SENTENSE>
+<SENTENSE Ver="1" Id="ENCHANT_NOTICE_FAIL">
+<VALUE Lang="Common">Player %s has failed to upgrade item %s</VALUE>
+</SENTENSE>
 <SENTENSE Ver="1" Id="ENCHANT_NOTICE_PROTECTED">
 <VALUE Lang="Common">Player %s has failed to upgrade item %s (Protected)</VALUE>
 </SENTENSE>
